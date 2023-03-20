@@ -4,12 +4,9 @@ import FlexBoxTest from './page/FlexBox';
 
 function App() {
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">
-      Hello world!
+    <h1 className="text-3xl font-bold underline">
+      Derrick-branch
     </h1>
-    <FlexBoxTest/>
-    </>
   );
 }
 
