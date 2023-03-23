@@ -1,13 +1,12 @@
 import { useState } from 'react';
 // import './App.css';
-import NewPage1 from './page/NewPageDErrick';
 
-function App() {
+function NewPage1() {
   return (
     <h1 className="text-3xl font-bold underline">
-      <NewPage1 />
+      DerrickBranch
     </h1>
   );
 }
 
-export default App;
+export default NewPage1;
